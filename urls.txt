@@ -1,0 +1,10 @@
+    "user": "http://127.0.0.1:8000/api/user/",
+    "country": "http://127.0.0.1:8000/api/country/",
+    "city": "http://127.0.0.1:8000/api/city/",
+    "game": "http://127.0.0.1:8000/api/game/",
+    "category": "http://127.0.0.1:8000/api/category/",
+    "characteristic_user": "http://127.0.0.1:8000/api/characteristic_user/",
+    "gender": "http://127.0.0.1:8000/api/gender/",
+    "detail_user": "http://127.0.0.1:8000/api/detail_user/",
+    "detail_category": "http://127.0.0.1:8000/api/detail_category/",
+    "detail_game": "http://127.0.0.1:8000/api/detail_game/"

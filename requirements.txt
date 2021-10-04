@@ -1,0 +1,8 @@
+django
+djangorestframework
+psycopg2
+gunicorn
+django-heroku
+django-cors-headers
+pillow
+pybase64
